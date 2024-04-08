@@ -1,0 +1,1181 @@
+[
+    {
+        "gen": 9,
+        "id": 906,
+        "nameen": "Sprigatito",
+        "namefr": "Poussacha",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/sprigatito.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/sprigatito.png",
+        "types": [ "Plante" ]
+    },
+    {
+        "gen": 9,
+        "id": 907,
+        "nameen": "Floragato",
+        "namefr": "Matourgeon",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/floragato.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/floragato.png",
+        "types": [ "Plante" ]
+    },
+    {
+        "gen": 9,
+        "id": 908,
+        "nameen": "Meowscarada",
+        "namefr": "Miascarade",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/meowscarada.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/meowscarada.png",
+        "types": [ "Plante", "Ténèbres" ]
+    },
+    {
+        "gen": 9,
+        "id": 909,
+        "nameen": "Fuecoco",
+        "namefr": "Chochodile",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/fuecoco.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/fuecoco.png",
+        "types": [ "Feu" ]
+    },
+    {
+        "gen": 9,
+        "id": 910,
+        "nameen": "Crocalor",
+        "namefr": "Crocogril",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/crocalor.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/crocalor.png",
+        "types": [ "Feu" ]
+    },
+    {
+        "gen": 9,
+        "id": 911,
+        "nameen": "Skeledirge",
+        "namefr": "Flâmigator",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/skeledirge.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/skeledirge.png",
+        "types": [ "Feu", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 912,
+        "nameen": "Quaxly",
+        "namefr": "Coiffeton",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/quaxly.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/quaxly.png",
+        "types": [ "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 913,
+        "nameen": "Quaxwell",
+        "namefr": "Canarbello",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/quaxwell.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/quaxwell.png",
+        "types": [ "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 914,
+        "nameen": "Quaquaval",
+        "namefr": "Palmaval",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/quaquaval.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/quaquaval.png",
+        "types": [ "Eau", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 915,
+        "nameen": "Lechonk",
+        "namefr": "Gourmelet",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/lechonk.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/lechonk.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 916,
+        "nameen": "Oinkologne",
+        "namefr": "Fragroin",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/oinkologne.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/oinkologne.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 916,
+        "nameen": "Oinkologne (Female)",
+        "namefr": "Fragroin (Femelle)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/oinkologne-f.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/oinkologne-f.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 917,
+        "nameen": "Tarountula",
+        "namefr": "Tissenboule",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tarountula.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tarountula.png",
+        "types": [ "Insecte" ]
+    },
+    {
+        "gen": 9,
+        "id": 918,
+        "nameen": "Spidops",
+        "namefr": "Filentrappe",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/spidops.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/spidops.png",
+        "types": [ "Insecte" ]
+    },
+    {
+        "gen": 9,
+        "id": 919,
+        "nameen": "Nymble",
+        "namefr": "Lilliterelle",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/nymble.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/nymble.png",
+        "types": [ "Insecte" ]
+    },
+    {
+        "gen": 9,
+        "id": 920,
+        "nameen": "Lokix",
+        "namefr": "Gambex",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/lokix.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/lokix.png",
+        "types": [ "Insecte", "Ténèbres" ]
+    },
+    {
+        "gen": 9,
+        "id": 921,
+        "nameen": "Pawmi",
+        "namefr": "Pohm",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/pawmi.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/pawmi.png",
+        "types": [ "Électrik" ]
+    },
+    {
+        "gen": 9,
+        "id": 922,
+        "nameen": "Pawmo",
+        "namefr": "Pohmotte",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/pawmo.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/pawmo.png",
+        "types": [ "Électrik", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 923,
+        "nameen": "Pawmot",
+        "namefr": "Pohmarmotte",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/pawmot.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/pawmot.png",
+        "types": [ "Électrik", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 924,
+        "nameen": "Tandemaus",
+        "namefr": "Compagnol",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tandemaus.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tandemaus.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 925,
+        "nameen": "Maushold",
+        "namefr": "Famignol",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/maushold.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/maushold.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 925,
+        "nameen": "Maushold (Family of Four)",
+        "namefr": "Famignol (Famille de Quatre)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/maushold-four.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/maushold-four.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 926,
+        "nameen": "Fidough",
+        "namefr": "Pâtachiot",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/fidough.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/fidough.png",
+        "types": [ "Fée" ]
+    },
+    {
+        "gen": 9,
+        "id": 927,
+        "nameen": "Dachsbun",
+        "namefr": "Briochien",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/dachsbun.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/dachsbun.png",
+        "types": [ "Fée" ]
+    },
+    {
+        "gen": 9,
+        "id": 928,
+        "nameen": "Smoliv",
+        "namefr": "Olivini",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/smoliv.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/smoliv.png",
+        "types": [ "Plante", "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 929,
+        "nameen": "Dolliv",
+        "namefr": "Olivado",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/dolliv.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/dolliv.png",
+        "types": [ "Plante", "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 930,
+        "nameen": "Arboliva",
+        "namefr": "Arboliva",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/arboliva.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/arboliva.png",
+        "types": [ "Plante", "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 931,
+        "nameen": "Squawkabilly",
+        "namefr": "Tapatoès",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/squawkabilly.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/squawkabilly.png",
+        "types": [ "Normal", "Vol" ]
+    },
+    {
+        "gen": 9,
+        "id": 931,
+        "nameen": "Squawkabilly (Blue Plumage)",
+        "namefr": "Tapatoès (Plumage Bleu)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/squawkabilly-blue.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/squawkabilly-blue.png",
+        "types": [ "Normal", "Vol" ]
+    },
+    {
+        "gen": 9,
+        "id": 931,
+        "nameen": "Squawkabilly (Yellow Plumage)",
+        "namefr": "Tapatoès (Plumage Jaune)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/squawkabilly-yellow.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/squawkabilly-yellow.png",
+        "types": [ "Normal", "Vol" ]
+    },
+    {
+        "gen": 9,
+        "id": 931,
+        "nameen": "Squawkabilly (White Plumage)",
+        "namefr": "Tapatoès (Plumage Blanc)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/squawkabilly-white.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/squawkabilly-white.png",
+        "types": [ "Normal", "Vol" ]
+    },
+    {
+        "gen": 9,
+        "id": 932,
+        "nameen": "Nacli",
+        "namefr": "Selutin",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/nacli.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/nacli.png",
+        "types": [ "Roche" ]
+    },
+    {
+        "gen": 9,
+        "id": 933,
+        "nameen": "Naclstack",
+        "namefr": "Amassel",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/naclstack.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/naclstack.png",
+        "types": [ "Roche" ]
+    },
+    {
+        "gen": 9,
+        "id": 934,
+        "nameen": "Garganacl",
+        "namefr": "Gigansel",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/garganacl.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/garganacl.png",
+        "types": [ "Roche" ]
+    },
+    {
+        "gen": 9,
+        "id": 935,
+        "nameen": "Charcadet",
+        "namefr": "Charbambin",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/charcadet.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/charcadet.png",
+        "types": [ "Feu" ]
+    },
+    {
+        "gen": 9,
+        "id": 936,
+        "nameen": "Armarouge",
+        "namefr": "Carmadura",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/armarouge.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/armarouge.png",
+        "types": [ "Feu", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 937,
+        "nameen": "Ceruledge",
+        "namefr": "Malvalame",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ceruledge.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ceruledge.png",
+        "types": [ "Feu", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 938,
+        "nameen": "Tadbulb",
+        "namefr": "Têtampoule",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tadbulb.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tadbulb.png",
+        "types": [ "Électrik" ]
+    },
+    {
+        "gen": 9,
+        "id": 939,
+        "nameen": "Bellibolt",
+        "namefr": "Ampibidou",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/bellibolt.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/bellibolt.png",
+        "types": [ "Électrik" ]
+    },
+    {
+        "gen": 9,
+        "id": 940,
+        "nameen": "Wattrel",
+        "namefr": "Zapétrel",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/wattrel.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/wattrel.png",
+        "types": [ "Électrik", "Vol" ]
+    },
+    {
+        "gen": 9,
+        "id": 941,
+        "nameen": "Kilowattrel",
+        "namefr": "Fulgulairo",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/kilowattrel.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/kilowattrel.png",
+        "types": [ "Électrik", "Vol" ]
+    },
+    {
+        "gen": 9,
+        "id": 942,
+        "nameen": "Maschiff",
+        "namefr": "Grondogue",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/maschiff.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/maschiff.png",
+        "types": [ "Ténèbres" ]
+    },
+    {
+        "gen": 9,
+        "id": 943,
+        "nameen": "Mabosstiff",
+        "namefr": "Dogrino",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/mabosstiff.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/mabosstiff.png",
+        "types": [ "Ténèbres" ]
+    },
+    {
+        "gen": 9,
+        "id": 944,
+        "nameen": "Shroodle",
+        "namefr": "Gribouraigne",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/shroodle.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/shroodle.png",
+        "types": [ "Poison", "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 945,
+        "nameen": "Grafaiai",
+        "namefr": "Tag-Tag",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/grafaiai.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/grafaiai.png",
+        "types": [ "Poison", "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 946,
+        "nameen": "Bramblin",
+        "namefr": "Virovent",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/bramblin.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/bramblin.png",
+        "types": [ "Plante", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 947,
+        "nameen": "Brambleghast",
+        "namefr": "Virevorreur",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/brambleghast.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/brambleghast.png",
+        "types": [ "Plante", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 948,
+        "nameen": "Toedscool",
+        "namefr": "Terracool",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/toedscool.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/toedscool.png",
+        "types": [ "Sol", "Plante" ]
+    },
+    {
+        "gen": 9,
+        "id": 949,
+        "nameen": "Toedscruel",
+        "namefr": "Terracruel",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/toedscruel.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/toedscruel.png",
+        "types": [ "Sol", "Plante" ]
+    },
+    {
+        "gen": 9,
+        "id": 950,
+        "nameen": "Klawf",
+        "namefr": "Craparoi",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/klawf.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/klawf.png",
+        "types": [ "Roche" ]
+    },
+    {
+        "gen": 9,
+        "id": 951,
+        "nameen": "Capsakid",
+        "namefr": "Pimito",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/capsakid.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/capsakid.png",
+        "types": [ "Plante" ]
+    },
+    {
+        "gen": 9,
+        "id": 952,
+        "nameen": "Scovillain",
+        "namefr": "Scovilain",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/scovillain.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/scovillain.png",
+        "types": [ "Plante", "Feu" ]
+    },
+    {
+        "gen": 9,
+        "id": 953,
+        "nameen": "Rellor",
+        "namefr": "Léboulérou",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/rellor.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/rellor.png",
+        "types": [ "Insecte" ]
+    },
+    {
+        "gen": 9,
+        "id": 954,
+        "nameen": "Rabsca",
+        "namefr": "Bérasca",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/rabsca.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/rabsca.png",
+        "types": [ "Insecte", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 955,
+        "nameen": "Flittle",
+        "namefr": "Flotillon",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/flittle.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/flittle.png",
+        "types": [ "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 956,
+        "nameen": "Espathra",
+        "namefr": "Cléopsytra",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/espathra.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/espathra.png",
+        "types": [ "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 957,
+        "nameen": "Tinkatink",
+        "namefr": "Forgerette",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tinkatink.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tinkatink.png",
+        "types": [ "Fée", "Acier" ]
+    },
+    {
+        "gen": 9,
+        "id": 958,
+        "nameen": "Tinkatuff",
+        "namefr": "Forgella",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tinkatuff.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tinkatuff.png",
+        "types": [ "Fée", "Acier" ]
+    },
+    {
+        "gen": 9,
+        "id": 959,
+        "nameen": "Tinkaton",
+        "namefr": "Forgelina",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tinkaton.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tinkaton.png",
+        "types": [ "Fée", "Acier" ]
+    },
+    {
+        "gen": 9,
+        "id": 960,
+        "nameen": "Wiglett",
+        "namefr": "Taupikeau",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/wiglett.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/wiglett.png",
+        "types": [ "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 961,
+        "nameen": "Wugtrio",
+        "namefr": "Triopikeau",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/wugtrio.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/wugtrio.png",
+        "types": [ "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 962,
+        "nameen": "Bombirdier",
+        "namefr": "Lestombaile",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/bombirdier.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/bombirdier.png",
+        "types": [ "Vol", "Ténèbres" ]
+    },
+    {
+        "gen": 9,
+        "id": 963,
+        "nameen": "Finizen",
+        "namefr": "Dofin",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/finizen.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/finizen.png",
+        "types": [ "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 964,
+        "nameen": "Palafin",
+        "namefr": "Superdofin",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/palafin.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/palafin.png",
+        "types": [ "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 965,
+        "nameen": "Varoom",
+        "namefr": "Vrombi",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/varoom.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/varoom.png",
+        "types": [ "Acier", "Poison" ]
+    },
+    {
+        "gen": 9,
+        "id": 966,
+        "nameen": "Revavroom",
+        "namefr": "Vrombotor",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/revavroom.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/revavroom.png",
+        "types": [ "Acier", "Poison" ]
+    },
+    {
+        "gen": 9,
+        "id": 967,
+        "nameen": "Cyclizar",
+        "namefr": "Motorizard",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/cyclizar.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/cyclizar.png",
+        "types": [ "Dragon", "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 968,
+        "nameen": "Orthworm",
+        "namefr": "Ferdeter",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/orthworm.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/orthworm.png",
+        "types": [ "Acier" ]
+    },
+    {
+        "gen": 9,
+        "id": 969,
+        "nameen": "Glimmet",
+        "namefr": "Germéclat",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/glimmet.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/glimmet.png",
+        "types": [ "Roche", "Poison" ]
+    },
+    {
+        "gen": 9,
+        "id": 970,
+        "nameen": "Glimmora",
+        "namefr": "Floréclat",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/glimmora.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/glimmora.png",
+        "types": [ "Roche", "Poison" ]
+    },
+    {
+        "gen": 9,
+        "id": 971,
+        "nameen": "Greavard",
+        "namefr": "Toutombe",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/greavard.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/greavard.png",
+        "types": [ "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 972,
+        "nameen": "Houndstone",
+        "namefr": "Tomberro",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/houndstone.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/houndstone.png",
+        "types": [ "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 973,
+        "nameen": "Flamigo",
+        "namefr": "Flamenroule",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/flamigo.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/flamigo.png",
+        "types": [ "Vol", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 974,
+        "nameen": "Cetoddle",
+        "namefr": "Piétacé",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/cetoddle.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/cetoddle.png",
+        "types": [ "Glace" ]
+    },
+    {
+        "gen": 9,
+        "id": 975,
+        "nameen": "Cetitan",
+        "namefr": "Balbalèze",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/cetitan.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/cetitan.png",
+        "types": [ "Glace" ]
+    },
+    {
+        "gen": 9,
+        "id": 976,
+        "nameen": "Veluza",
+        "namefr": "Délestin",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/veluza.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/veluza.png",
+        "types": [ "Eau", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 977,
+        "nameen": "Dondozo",
+        "namefr": "Oyacata",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/dondozo.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/dondozo.png",
+        "types": [ "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 978,
+        "nameen": "Tatsugiri",
+        "namefr": "Nigirigon",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tatsugiri.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tatsugiri.png",
+        "types": [ "Dragon", "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 978,
+        "nameen": "Tatsugiri (Droopy Form)",
+        "namefr": "Nigirigon (Forme Affalée)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tatsugiri-droopy.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tatsugiri-droopy.png",
+        "types": [ "Dragon", "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 978,
+        "nameen": "Tatsugiri (Stretchy Form)",
+        "namefr": "Nigirigon (Forme Raide)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tatsugiri-stretchy.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tatsugiri-stretchy.png",
+        "types": [ "Dragon", "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 979,
+        "nameen": "Annihilape",
+        "namefr": "Courrousinge",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/annihilape.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/annihilape.png",
+        "types": [ "Combat", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 980,
+        "nameen": "Clodsire",
+        "namefr": "Terraiste",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/clodsire.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/clodsire.png",
+        "types": [ "Poison", "Sol" ]
+    },
+    {
+        "gen": 9,
+        "id": 981,
+        "nameen": "Farigiraf",
+        "namefr": "Farigiraf",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/farigiraf.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/farigiraf.png",
+        "types": [ "Normal", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 982,
+        "nameen": "Dudunsparce",
+        "namefr": "Deusolourdo",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/dudunsparce.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/dudunsparce.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 982,
+        "nameen": "Dudunsparce (Three-Segment Form)",
+        "namefr": "Deusolourdo (Forme Triple)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/dudunsparce-threesegment.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/dudunsparce-threesegment.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 983,
+        "nameen": "Kingambit",
+        "namefr": "Scalpereur",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/kingambit.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/kingambit.png",
+        "types": [ "Ténèbres", "Acier" ]
+    },
+    {
+        "gen": 9,
+        "id": 984,
+        "nameen": "Great Tusk",
+        "namefr": "Fort-Ivoire",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/greattusk.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/greattusk.png",
+        "types": [ "Sol", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 985,
+        "nameen": "Scream Tail",
+        "namefr": "Hurle-Queue",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/screamtail.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/screamtail.png",
+        "types": [ "Fée", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 986,
+        "nameen": "Brute Bonnet",
+        "namefr": "Fongus-Furie",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/brutebonnet.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/brutebonnet.png",
+        "types": [ "Plante", "Ténèbres" ]
+    },
+    {
+        "gen": 9,
+        "id": 987,
+        "nameen": "Flutter Mane",
+        "namefr": "Flotte-Mèche",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/fluttermane.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/fluttermane.png",
+        "types": [ "Spectre", "Fée" ]
+    },
+    {
+        "gen": 9,
+        "id": 988,
+        "nameen": "Slither Wing",
+        "namefr": "Rampe-Ailes",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/slitherwing.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/slitherwing.png",
+        "types": [ "Insecte", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 989,
+        "nameen": "Sandy Shocks",
+        "namefr": "Pelage-Sablé",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/sandyshocks.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/sandyshocks.png",
+        "types": [ "Électrik", "Sol" ]
+    },
+    {
+        "gen": 9,
+        "id": 990,
+        "nameen": "Iron Treads",
+        "namefr": "Roue-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/irontreads.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/irontreads.png",
+        "types": [ "Sol", "Acier" ]
+    },
+    {
+        "gen": 9,
+        "id": 991,
+        "nameen": "Iron Bundle",
+        "namefr": "Hotte-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironbundle.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironbundle.png",
+        "types": [ "Glace", "Eau" ]
+    },
+    {
+        "gen": 9,
+        "id": 992,
+        "nameen": "Iron Hands",
+        "namefr": "Paume-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironhands.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironhands.png",
+        "types": [ "Combat", "Électrik" ]
+    },
+    {
+        "gen": 9,
+        "id": 993,
+        "nameen": "Iron Jugulis",
+        "namefr": "Têtes-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironjugulis.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironjugulis.png",
+        "types": [ "Ténèbres", "Vol" ]
+    },
+    {
+        "gen": 9,
+        "id": 994,
+        "nameen": "Iron Moth",
+        "namefr": "Mite-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironmoth.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironmoth.png",
+        "types": [ "Feu", "Poison" ]
+    },
+    {
+        "gen": 9,
+        "id": 995,
+        "nameen": "Iron Thorns",
+        "namefr": "Épine-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironthorns.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironthorns.png",
+        "types": [ "Roche", "Électrik" ]
+    },
+    {
+        "gen": 9,
+        "id": 996,
+        "nameen": "Frigibax",
+        "namefr": "Frigodo",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/frigibax.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/frigibax.png",
+        "types": [ "Dragon", "Glace" ]
+    },
+    {
+        "gen": 9,
+        "id": 997,
+        "nameen": "Arctibax",
+        "namefr": "Cryodo",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/arctibax.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/arctibax.png",
+        "types": [ "Dragon", "Glace" ]
+    },
+    {
+        "gen": 9,
+        "id": 998,
+        "nameen": "Baxcalibur",
+        "namefr": "Glaivodo",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/baxcalibur.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/baxcalibur.png",
+        "types": [ "Dragon", "Glace" ]
+    },
+    {
+        "gen": 9,
+        "id": 999,
+        "nameen": "Gimmighoul",
+        "namefr": "Mordudor",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/gimmighoul.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/gimmighoul.png",
+        "types": [ "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 999,
+        "nameen": "Gimmighoul (Roaming Form)",
+        "namefr": "Mordudor (Forme Marche)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/gimmighoul-roaming.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/gimmighoul-roaming.png",
+        "types": [ "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 1000,
+        "nameen": "Gholdengo",
+        "namefr": "Gromago",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/gholdengo.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/gholdengo.png",
+        "types": [ "Acier", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 1001,
+        "nameen": "Wo-Chien",
+        "namefr": "Chongjian",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/wochien.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/wochien.png",
+        "types": [ "Ténèbres", "Plante" ]
+    },
+    {
+        "gen": 9,
+        "id": 1002,
+        "nameen": "Chien-Pao",
+        "namefr": "Baojian",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/chienpao.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/chienpao.png",
+        "types": [ "Ténèbres", "Glace" ]
+    },
+    {
+        "gen": 9,
+        "id": 1003,
+        "nameen": "Ting-Lu",
+        "namefr": "Dinglu",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/tinglu.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/tinglu.png",
+        "types": [ "Ténèbres", "Sol" ]
+    },
+    {
+        "gen": 9,
+        "id": 1004,
+        "nameen": "Chi-Yu",
+        "namefr": "Yuyu",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/chiyu.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/chiyu.png",
+        "types": [ "Ténèbres", "Feu" ]
+    },
+    {
+        "gen": 9,
+        "id": 1005,
+        "nameen": "Roaring Moon",
+        "namefr": "Rugit-Lune",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/roaringmoon.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/roaringmoon.png",
+        "types": [ "Dragon", "Ténèbres" ]
+    },
+    {
+        "gen": 9,
+        "id": 1006,
+        "nameen": "Iron Valiant",
+        "namefr": "Garde-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironvaliant.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironvaliant.png",
+        "types": [ "Fée", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 1007,
+        "nameen": "Koraidon",
+        "namefr": "Koraidon",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/koraidon.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/koraidon.png",
+        "types": [ "Combat", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1008,
+        "nameen": "Miraidon",
+        "namefr": "Miraidon",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/miraidon.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/miraidon.png",
+        "types": [ "Électrik", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1009,
+        "nameen": "Walking Wake",
+        "namefr": "Serpente-Eau",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/walkingwake.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/walkingwake.png",
+        "types": [ "Eau", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1010,
+        "nameen": "Iron Leaves",
+        "namefr": "Vert-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironleaves.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironleaves.png",
+        "types": [ "Plante", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 1011,
+        "nameen": "Dipplin",
+        "namefr": "Pomdramour",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/dipplin.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/dipplin.png",
+        "types": [ "Plante", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1012,
+        "nameen": "Poltchageist",
+        "namefr": "Poltchageist",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/poltchageist.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/poltchageist.png",
+        "types": [ "Plante", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 1012,
+        "nameen": "Poltchageist (Artisan Form)",
+        "namefr": "Poltchageist (Forme Onéreuse)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/poltchageist-artisan.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/poltchageist-artisan.png",
+        "types": [ "Plante", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 1013,
+        "nameen": "Sinistcha",
+        "namefr": "Théffroyable",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/sinistcha.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/sinistcha.png",
+        "types": [ "Plante", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 1013,
+        "nameen": "Sinistcha (Masterpiece Form)",
+        "namefr": "Théffroyable (Forme Exceptionnelle)",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/sinistcha-masterpiece.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/sinistcha-masterpiece.png",
+        "types": [ "Plante", "Spectre" ]
+    },
+    {
+        "gen": 9,
+        "id": 1014,
+        "nameen": "Okidogi",
+        "namefr": "Félicanis",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/okidogi.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/okidogi.png",
+        "types": [ "Poison", "Combat" ]
+    },
+    {
+        "gen": 9,
+        "id": 1015,
+        "nameen": "Munkidori",
+        "namefr": "Fortusimia",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/munkidori.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/munkidori.png",
+        "types": [ "Poison", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 1016,
+        "nameen": "Fezandipiti",
+        "namefr": "Favianos",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/fezandipiti.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/fezandipiti.png",
+        "types": [ "Poison", "Fée" ]
+    },
+    {
+        "gen": 9,
+        "id": 1017,
+        "nameen": "Ogerpon",
+        "namefr": "Ogerpon",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ogerpon.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ogerpon.png",
+        "types": [ "Plante" ]
+    },
+    {
+        "gen": 9,
+        "id": 1018,
+        "nameen": "Archaludon",
+        "namefr": "Pondralugon",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/archaludon.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/archaludon.png",
+        "types": [ "Acier", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1019,
+        "nameen": "Hydrapple",
+        "namefr": "Pomdorochi",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/hydrapple.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/hydrapple.png",
+        "types": [ "Plante", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1020,
+        "nameen": "Gouging Fire",
+        "namefr": "Feu-Perçant",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/gougingfire.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/gougingfire.png",
+        "types": [ "Feu", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1021,
+        "nameen": "Raging Bolt",
+        "namefr": "Ire-Foudre",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ragingbolt.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ragingbolt.png",
+        "types": [ "Électrik", "Dragon" ]
+    },
+    {
+        "gen": 9,
+        "id": 1022,
+        "nameen": "Iron Boulder",
+        "namefr": "Roc-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironboulder.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironboulder.png",
+        "types": [ "Roche", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 1023,
+        "nameen": "Iron Crown",
+        "namefr": "Chef-de-Fer",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/ironcrown.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/ironcrown.png",
+        "types": [ "Acier", "Psy" ]
+    },
+    {
+        "gen": 9,
+        "id": 1024,
+        "nameen": "Terapagos",
+        "namefr": "Terapagos",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/terapagos.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/terapagos.png",
+        "types": [ "Normal" ]
+    },
+    {
+        "gen": 9,
+        "id": 1025,
+        "nameen": "Pecharunt",
+        "namefr": "Pêchaminus",
+        "sprite": "https://play.pokemonshowdown.com/sprites/gen5/pecharunt.png",
+        "spriteshiny": "https://play.pokemonshowdown.com/sprites/gen5-shiny/pecharunt.png",
+        "types": [ "Poison", "Spectre" ]
+    }
+]

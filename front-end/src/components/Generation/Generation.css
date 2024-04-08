@@ -1,0 +1,13 @@
+.generation__section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.generation__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 85%;
+}
